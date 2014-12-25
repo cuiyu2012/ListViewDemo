@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>picContent</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- ListViewDemo references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/navigator.js"></script>
+    <script src="/page/picContent.js"></script>
+</head>
+<body>
+    <!--
+    <p>picContent.html</p>
+    <div id="mediumListIconTextTemplate" data-win-control="WinJS.Binding.Template">
+    <div id="mediumListIconTextTemplate" data-win-control="WinJS.Binding.Template" style="">
+        <img src="#" data-win-bind="src:picPath" onload="onImgLoad(this)" />
+    </div>
+    <!--</div>
+    <div id="basicListView" class="picContentListView"
+         data-win-control="WinJS.UI.ListView"
+         data-win-options="{itemTemplate: select('#mediumListIconTextTemplate'), layout: {type: WinJS.UI.ListLayout}}">
+    </div>
+    -->
+    <div id="ItemTemplate" data-win-control="WinJS.Binding.Template">
+        <div style="overflow-y: scroll; height: 800px">
+            <img src="#" data-win-bind="src: picPath" />
+            <div>
+                <h2></h2>
+            </div>
+        </div>
+    </div>
+    <div id="basicFlipView"
+         data-win-control="WinJS.UI.FlipView"
+         data-win-options="{ itemTemplate : ItemTemplate, orientation: 'vertical' }"></div>
+</body>
+</html>

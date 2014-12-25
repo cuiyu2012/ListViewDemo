@@ -1,0 +1,42 @@
+﻿body {
+}
+
+.h4_class {
+	background-color:lime;
+	color:black;	
+}
+
+.h6_class {
+	color: lime;
+
+}
+
+.win-listview
+{
+	height:500px;
+	width:500px;
+	border:2px solid gray;
+}
+
+.mediumListIconTextItem
+{
+    width: 282px;
+    height: 70px;
+    padding: 5px;
+    overflow: hidden;
+    display: -ms-grid;
+}
+
+.picContentListView
+{
+	height:600px;
+	width:auto;
+}
+
+#basicFlipView
+{
+    width: 100%;
+    height: 100%;
+    border: solid 1px black;    
+}
+

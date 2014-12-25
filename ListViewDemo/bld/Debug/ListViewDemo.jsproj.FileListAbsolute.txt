@@ -1,0 +1,15 @@
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\Debug\ReverseMap\resources.pri
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\Debug\AppxManifest.xml
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\Debug\ListViewDemo.build.appxrecipe
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\priconfig.xml
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\priconfig.xml.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\layout.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\layout.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\resources.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\resources.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\pri.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\pri.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\qualifiers.txt
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\qualifiers.txt.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\Debug\ProjectArchitectures.txt

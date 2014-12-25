@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ListViewDemo</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- ListViewDemo references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/dataExample.js"></script>
+    <script src="/js/default.js"></script>
+    
+</head>
+<body>
+    <p>Content goes here</p>
+    <button class="action" id="runquery">
+        ClickMe
+    </button>
+    <div id="basicListView"
+         data-win-control="WinJS.UI.ListView"
+         data-win-options="{ itemDataSource : DataExample.itemList.dataSource}">
+    </div>
+    
+</body>
+</html>

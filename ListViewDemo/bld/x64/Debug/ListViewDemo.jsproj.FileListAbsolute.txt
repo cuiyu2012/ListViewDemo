@@ -1,0 +1,15 @@
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\x64\Debug\ReverseMap\resources.pri
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\x64\Debug\AppxManifest.xml
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\x64\Debug\ListViewDemo.build.appxrecipe
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\priconfig.xml
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\priconfig.xml.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\layout.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\layout.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\resources.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\resources.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\pri.resfiles
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\pri.resfiles.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\qualifiers.txt
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\qualifiers.txt.intermediate
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bld\x64\Debug\ProjectArchitectures.txt
