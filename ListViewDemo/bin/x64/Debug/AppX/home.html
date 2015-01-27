@@ -21,35 +21,16 @@
             WinJS.Navigation.navigate("/page/picContent.html");
         }
     </script>
-    <!--
-    <button class="action" id="runquery">
-        ClickMe
-    </button>
-    -->
     <div id="mediumListIconTextTemplate" data-win-control="WinJS.Binding.Template">
         <div class="mediumListIconTextItem">
 		<div style="width: 150px; height: 100px;">
-
-            <!-- Displays the "picture" field. 
-            <img src="#" style="width: 60px; height: 60px;"
-                 data-win-bind="alt: title; src: picture" />-->
             <div>
-
-                <!-- Displays the "title" field. -->
                 <h4 class="h4_class" data-win-bind="innerText: name"></h4>
-
-                <!-- Displays the "text" field. -->
                 <h6 class="h6_class" data-win-bind="innerText: mtime"></h6>
             </div>
         </div>
 		</div>
     </div>
-    <!--
-    <div id="basicListView" data-win-control="WinJS.UI.ListView"
-         data-win-options="{itemDataSource : DataExample.itemList.dataSource,
-            itemTemplate: select('#mediumListIconTextTemplate')}">
-    </div>
-    -->
     <div id="basicListView"
          data-win-control="WinJS.UI.ListView"
          data-win-options="{itemTemplate: select('#mediumListIconTextTemplate'), layout: {type: WinJS.UI.ListLayout}}" >

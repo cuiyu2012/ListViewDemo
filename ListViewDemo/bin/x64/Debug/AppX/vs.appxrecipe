@@ -23,15 +23,15 @@
   <ItemGroup>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2014-12-02T15:40:11.235</Modified>
+      <Modified>2015-01-27T15:28:57.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\home.html">
       <PackagePath>home.html</PackagePath>
-      <Modified>2015-01-27T15:19:42.363</Modified>
+      <Modified>2015-01-27T15:28:48.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\page\picContent.html">
       <PackagePath>page\picContent.html</PackagePath>
-      <Modified>2014-12-04T15:01:08.602</Modified>
+      <Modified>2015-01-27T15:29:06.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
