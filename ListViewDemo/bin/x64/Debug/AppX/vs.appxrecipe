@@ -27,7 +27,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\home.html">
       <PackagePath>home.html</PackagePath>
-      <Modified>2014-12-02T15:10:23.294</Modified>
+      <Modified>2015-01-27T15:19:42.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\page\picContent.html">
       <PackagePath>page\picContent.html</PackagePath>
@@ -75,7 +75,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-12-03T15:36:12.418</Modified>
+      <Modified>2015-01-27T15:19:42.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\code\vs2013\ListViewDemo\ListViewDemo\ListViewDemo\bin\x64\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
